@@ -1,0 +1,13 @@
+D:\Учёба\Информатика\СИППО\sippo\sippo\bin\Debug\sippo.exe.config
+D:\Учёба\Информатика\СИППО\sippo\sippo\bin\Debug\sippo.exe
+D:\Учёба\Информатика\СИППО\sippo\sippo\bin\Debug\sippo.pdb
+D:\Учёба\Информатика\СИППО\sippo\sippo\bin\Debug\MyLib.dll
+D:\Учёба\Информатика\СИППО\sippo\sippo\bin\Debug\MyLib.pdb
+D:\Учёба\Информатика\СИППО\sippo\sippo\obj\Debug\sippo.csproj.AssemblyReference.cache
+D:\Учёба\Информатика\СИППО\sippo\sippo\obj\Debug\sippo.Properties.Resources.resources
+D:\Учёба\Информатика\СИППО\sippo\sippo\obj\Debug\sippo.csproj.GenerateResource.cache
+D:\Учёба\Информатика\СИППО\sippo\sippo\obj\Debug\sippo.csproj.CoreCompileInputs.cache
+D:\Учёба\Информатика\СИППО\sippo\sippo\obj\Debug\sippo.csproj.CopyComplete
+D:\Учёба\Информатика\СИППО\sippo\sippo\obj\Debug\sippo.exe
+D:\Учёба\Информатика\СИППО\sippo\sippo\obj\Debug\sippo.pdb
+D:\Учёба\Информатика\СИППО\sippo\sippo\obj\Debug\sippo.Form1.resources
